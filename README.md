@@ -16,3 +16,9 @@ Ao acessar o admin console exporte o arquivo json realm-export presente no proje
 ![image](https://github.com/user-attachments/assets/2c41569f-7aed-4865-a4f5-3491e7c2f755)
 
 ![image](https://github.com/user-attachments/assets/0bc3b34e-0027-4e52-9941-433816172aad)
+
+
+*Usuário criado para teste:*
+
+Usuário: FelipeTeste
+Senha: teste
