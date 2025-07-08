@@ -22,3 +22,5 @@ Ao acessar o admin console exporte o arquivo json realm-export presente no proje
 
 Usuário: FelipeTeste
 Senha: teste
+
+Observação: caso não criar por padrão um usuário, criar ele na aba users e adicioná-lo ao grupo já existente. Assim ele receberá todas as regras de acesso a criar, excluir, editar e listar produto.
