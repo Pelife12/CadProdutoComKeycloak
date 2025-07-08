@@ -24,3 +24,11 @@ Usuário: FelipeTeste
 Senha: teste
 
 Observação: caso não criar por padrão um usuário, criar ele na aba users e adicioná-lo ao grupo já existente. Assim ele receberá todas as regras de acesso a criar, excluir, editar e listar produto.
+
+
+Outro possível problema é com a client-secret, caso aconteça o erro "[invalid_token_response] An error occurred while attempting to retrieve the OAuth 2.0 Access Token Response: 401 Unauthorized: [no body]" cria uma credencial nova do cliente e adicione no application.properties.
+
+![image](https://github.com/user-attachments/assets/acd21415-9179-4201-b0ee-cb7adcd89a3f)
+
+![image](https://github.com/user-attachments/assets/e4ae055f-31cb-4b9d-9271-971c527c40c6)
+
