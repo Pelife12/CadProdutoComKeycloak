@@ -1,4 +1,4 @@
-#Equipe: André Ramos, Felipe Bogo, Jeison Diniz e Thierry Busnardo
+# Equipe: André Ramos, Felipe Bogo, Jeison Diniz e Thierry Busnardo
 
 Projeto desenvolvido para cadastro de um produto que será utilizado no PAC.
 
