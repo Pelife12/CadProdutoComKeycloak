@@ -2,6 +2,10 @@
 
 Projeto desenvolvido para cadastro de um produto que será utilizado no PAC.
 
+Utilizado Java com Vaadin24 e o SQL foi utilizado SQLite.
+
+(Por conta do vaadin24, recomendo utilizar o IntelliJ como IDEA)
+
 Instruções para configurar o Keycloak:
 
 Abra o docker(caso seja o desktop) e rode o comando no terminal:
